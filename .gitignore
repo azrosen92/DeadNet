@@ -1,0 +1,8 @@
+.DS_Store
+DeadNet/
+__pycache__/
+*.json
+data/
+*.sqlite
+*.mp3
+*.ogg
