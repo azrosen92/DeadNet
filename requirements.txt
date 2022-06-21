@@ -7,7 +7,7 @@ idna==2.6
 Keras==2.1.2
 lxml==4.1.1
 Markdown==2.6.11
-numpy==1.13.3
+numpy==1.22.0
 protobuf==3.5.1
 pydub==0.20.0
 PyYAML==3.12
